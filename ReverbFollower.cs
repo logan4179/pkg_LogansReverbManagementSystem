@@ -279,7 +279,7 @@ namespace LogansReverbManagementSystem
 
 		private void CheckIfKosher()
 		{
-			bool amKosher = true;
+			//bool amKosher = true;
 
 			//if( )
 		}
